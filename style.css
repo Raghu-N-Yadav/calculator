@@ -1,0 +1,27 @@
+.calculator {
+    margin-top: 5vh;
+    text-align: center;
+    /* width: 10vw; */
+    border: 3px solid red;
+}
+
+#input {
+    width: 20vw;
+    height: 5vh;
+}
+.btn {
+    padding: 10px;
+    background-color: black;
+    color: blanchedalmond;
+}
+.button_area {
+    display: inline-block;
+}
+.operation_area{
+    display: inline-block;
+}
+.button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
